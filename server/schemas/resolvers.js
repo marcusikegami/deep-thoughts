@@ -58,6 +58,7 @@ const resolvers = {
       }
 
       const token = signToken(user);
+      
       return { token, user };
     },
     addThought: async (parent, args, context) => {
