@@ -20,7 +20,7 @@ MongoDB social media site built with React and ApolloGraphQL
 
 ## Installation
 
-Clone the repo into the working directory and run the command "npm install" in your CLI to install the packages required for the application.
+Note: This app requires Mongo to be installed on your system to work correctly. Clone the repo into the working directory and run the command "npm install" in your CLI to install the packages required for the application. In the root directory, run the command "npm run develop" to start both the front-end and the back-end servers. If successful, the app should open a new window in the default browser.
 
 ## Usage
 
